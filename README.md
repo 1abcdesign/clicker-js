@@ -6,7 +6,7 @@ The clicker.js project is a web application that lets users play a clicking game
 
 ## Project Screenshot
 
-[![Project Screenshot](https://github.com/1abcdesign/clicker-js/blob/main/screenshot.png)](https://1abcdesign.github.io/clicker-js/)
+[![Project Screenshot](https://github.com/vadim4web/clicker-js/blob/main/screenshot.png)](https://vadim4web.github.io/clicker-js/)
 
 ## HTML
 
@@ -54,4 +54,4 @@ To use the clicker.js project:
 
 ## Author
 
-(č) Vadym Chervoniak-Bogdanov
+© Vadim Chervoniak
